@@ -3,7 +3,7 @@
  * @Github        : https://github.com/fineemb
  * @Description   : 
  * @Date          : 2020-08-26 16:20:12
- * @LastEditors   : fineemb
+ * @LastEditors   : justin
  * @LastEditTime  : 2021-03-06 11:01:18
 -->
 
@@ -49,6 +49,8 @@
   + 不知道更新了啥
 + ### v1.2.7
   + 修复配置页面无法登录的问题
++ ### v1.2.8
+  + 维护代码，更新被HA废弃的接口调用。 
     
 ## 安装配置
 
